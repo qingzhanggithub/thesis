@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/users/qzhang/!svn/ver/49/biogrid/src/edu/umass/biogrid
+END
+FeatureExtractorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/users/qzhang/!svn/ver/49/biogrid/src/edu/umass/biogrid/FeatureExtractorTest.java
+END
+TextSimilarity.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/users/qzhang/!svn/ver/49/biogrid/src/edu/umass/biogrid/TextSimilarity.java
+END
+DatabaseAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/users/qzhang/!svn/ver/49/biogrid/src/edu/umass/biogrid/DatabaseAccess.java
+END
+FeatureExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/users/qzhang/!svn/ver/49/biogrid/src/edu/umass/biogrid/FeatureExtractor.java
+END
+NegativeGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/users/qzhang/!svn/ver/49/biogrid/src/edu/umass/biogrid/NegativeGenerator.java
+END
+Evaluation.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/users/qzhang/!svn/ver/49/biogrid/src/edu/umass/biogrid/Evaluation.java
+END
+MEDLINECoOccurence.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/users/qzhang/!svn/ver/49/biogrid/src/edu/umass/biogrid/MEDLINECoOccurence.java
+END
+Coocurence.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/users/qzhang/!svn/ver/49/biogrid/src/edu/umass/biogrid/Coocurence.java
+END
+BiogridDatabaseConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/users/qzhang/!svn/ver/49/biogrid/src/edu/umass/biogrid/BiogridDatabaseConnection.java
+END
+MedlineSearcherSimple.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/users/qzhang/!svn/ver/49/biogrid/src/edu/umass/biogrid/MedlineSearcherSimple.java
+END
+Feature.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/users/qzhang/!svn/ver/49/biogrid/src/edu/umass/biogrid/Feature.java
+END

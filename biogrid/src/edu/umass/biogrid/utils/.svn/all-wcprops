@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/users/qzhang/!svn/ver/49/biogrid/src/edu/umass/biogrid/utils
+END
+PMIDTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/users/qzhang/!svn/ver/49/biogrid/src/edu/umass/biogrid/utils/PMIDTool.java
+END
+SymbolTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/users/qzhang/!svn/ver/49/biogrid/src/edu/umass/biogrid/utils/SymbolTool.java
+END
+MeSHCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/users/qzhang/!svn/ver/49/biogrid/src/edu/umass/biogrid/utils/MeSHCounter.java
+END
+OrganismTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/users/qzhang/!svn/ver/49/biogrid/src/edu/umass/biogrid/utils/OrganismTool.java
+END
+EvaluationText.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/users/qzhang/!svn/ver/49/biogrid/src/edu/umass/biogrid/utils/EvaluationText.java
+END
+RunMeshForPMID.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/users/qzhang/!svn/ver/49/biogrid/src/edu/umass/biogrid/utils/RunMeshForPMID.java
+END
+ExperimentSystemType.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/users/qzhang/!svn/ver/49/biogrid/src/edu/umass/biogrid/utils/ExperimentSystemType.java
+END
+YearTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/users/qzhang/!svn/ver/49/biogrid/src/edu/umass/biogrid/utils/YearTool.java
+END
+NewMedlineAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/users/qzhang/!svn/ver/49/biogrid/src/edu/umass/biogrid/utils/NewMedlineAccess.java
+END
+Statistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/users/qzhang/!svn/ver/49/biogrid/src/edu/umass/biogrid/utils/Statistics.java
+END
+PairTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/users/qzhang/!svn/ver/49/biogrid/src/edu/umass/biogrid/utils/PairTool.java
+END
+IDCheckerForOrganism.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/users/qzhang/!svn/ver/49/biogrid/src/edu/umass/biogrid/utils/IDCheckerForOrganism.java
+END
